@@ -1,4 +1,4 @@
-# interview-tasks
+# search-algorithms
 
 Implemented for educational purposes.
 
