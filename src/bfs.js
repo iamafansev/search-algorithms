@@ -1,6 +1,6 @@
 const bfs = (name, compare, graph = {}) => {
   const queue = [];
-  const searched = new Set([]);
+  const searched = new Set();
 
   queue.push(...graph[name]);
 
