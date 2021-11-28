@@ -21,7 +21,6 @@ const dfs = (node, compare, graph = {}) => {
         }
 
         path.pop();
-        visited.delete(neighborNode);
       }
     }
 
