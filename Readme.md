@@ -4,6 +4,7 @@ Implemented for educational purposes.
 
 Algorithms list:
 
+- Linear search
 - Binary search
 - BFS
 - DFS
